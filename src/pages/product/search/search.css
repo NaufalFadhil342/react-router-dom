@@ -1,0 +1,31 @@
+.search {
+  width: fit-content;
+  background-color: #3e36fa;
+  padding: 0.25rem;
+  border-radius: 2.5px;
+  margin: 3rem auto;
+  display: flex;
+  align-items: center;
+  transform: translateY(7rem);
+}
+
+.search input {
+  width: 18rem;
+  padding: 0.3rem 0;
+  padding-left: 0.3rem;
+  outline-color: #3e36fa;
+  background-color: ghostwhite;
+  border: #3e36fa;
+}
+
+.search button {
+  background-color: #3e36fa;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.search button svg {
+  font-size: 25px;
+  transform: translateY(2px) rotateY(180deg);
+}

@@ -1,0 +1,17 @@
+.displayProduct {
+  width: fit-content;
+  margin: 0 auto;
+  transform: translateY(3rem);
+}
+
+.productDisplay {
+  width: 175px;
+  height: 175px;
+  background-color: #e0e0e0;
+  padding: 0.5rem;
+  text-align: start;
+}
+
+h1 {
+  font-size: x-large;
+}

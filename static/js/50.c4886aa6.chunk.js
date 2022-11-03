@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_router_dom=self.webpackChunkreact_router_dom||[]).push([[50],{50:function(e,r,s){s.r(r);s(791);var c=s(87),t=s(689),a=(s(508),s(184));r.default=function(){return(0,a.jsxs)("header",{className:"product",children:[(0,a.jsxs)("div",{className:"feature",children:[(0,a.jsx)(c.rU,{to:"search",children:"Search"}),(0,a.jsx)(c.rU,{to:"list",children:"List"}),(0,a.jsx)(c.rU,{to:"add",children:"Add"})]}),(0,a.jsx)(t.j3,{})]})}}}]);
+//# sourceMappingURL=50.c4886aa6.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_router_dom=self.webpackChunkreact_router_dom||[]).push([[526],{526:function(e,r,t){t.r(r);t(791);var u=t(184);r.default=function(){return(0,u.jsx)("div",{children:"THIS IS THE LOGIN PAGE"})}}}]);
+//# sourceMappingURL=526.fce99313.chunk.js.map
